@@ -105,7 +105,7 @@ const hamza: Developer = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-op&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamza-op&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" alt="Top Languages" />
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ const hamza: Developer = {
 <h2 align="center">🏆 Achievement Unlocked</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-op&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-op&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="trophies" />
 </div>
 
 <br/>
@@ -214,8 +214,8 @@ const hamza: Developer = {
 <h2 align="center">📈 GitHub Stats (Real Numbers, Real Pain)</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-op&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=ffffff&dates=888888" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Hamza-op&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=ffffff&dates=888888" />
 </div>
 
 <br/>
@@ -259,46 +259,53 @@ const hamza: Developer = {
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">🤖 Discord Bot</h3>
-    <div align="center">
-      <a href="https://github.com/Hamza-op/moonfilmwork" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=moonfilmwork&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="Discord Bot" />
-      </a>
-      <p><strong>TypeScript • Discord.js • Node.js</strong></p>
-      <p>Feature-rich Discord bot with dynamic voice channels, waiting rooms, bad word filters, config system, and much more</p>
-    </div>
+    <a href="https://github.com/Hamza-op/moonfilmwork">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=moonfilmwork&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
+    </a>
+    <br/><br/>
+    <p align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </p>
+    <p align="center">Feature-rich Discord bot with dynamic voice channels, waiting rooms, bad word filters & config system</p>
   </td>
   <td width="50%">
-    <h3 align="center">🔍 MetaLens — Metadata Extractor</h3>
-    <div align="center">
-      <a href="https://github.com/Hamza-op/Meta-data-extractor" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=Meta-data-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="MetaLens" />
-      </a>
-      <p><strong>C++ • ExifTool • WinForms</strong></p>
-      <p>Self-contained desktop app that deep-dives into file metadata with a slick modern dark UI — no setup required</p>
-    </div>
+    <a href="https://github.com/Hamza-op/Meta-data-extractor">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=Meta-data-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
+    </a>
+    <br/><br/>
+    <p align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/ExifTool-222222?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white" />
+    </p>
+    <p align="center">Self-contained desktop app that deep-dives into file metadata with a slick modern dark UI</p>
   </td>
 </tr>
 <tr>
   <td width="50%">
-    <h3 align="center">🛒 Click Khareed</h3>
-    <div align="center">
-      <a href="https://github.com/Hamza-op/click-khareed" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=click-khareed&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="Click Khareed" />
-      </a>
-      <p><strong>TypeScript • Next.js • TailwindCSS</strong></p>
-      <p>E-commerce platform built for the modern web — fast, responsive and ready to scale</p>
-    </div>
+    <a href="https://github.com/Hamza-op/click-khareed">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=click-khareed&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
+    </a>
+    <br/><br/>
+    <p align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </p>
+    <p align="center">E-commerce platform built for the modern web — fast, responsive and ready to scale</p>
   </td>
   <td width="50%">
-    <h3 align="center">🌱 Food Garden</h3>
-    <div align="center">
-      <a href="https://github.com/Hamza-op/food-garden" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=food-garden&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="Food Garden" />
-      </a>
-      <p><strong>Python • Flask • Web Scraping</strong></p>
-      <p>Smart food management app that tracks what's in your garden and kitchen — because wasting food is a crime</p>
-    </div>
+    <a href="https://github.com/Hamza-op/food-garden">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=food-garden&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
+    </a>
+    <br/><br/>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    </p>
+    <p align="center">Smart food management app — because wasting food is a crime 🌱</p>
   </td>
 </tr>
 </table>
@@ -393,7 +400,7 @@ Markdown     █░░░░░░░░░░░░░░░░░░░    2.5
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/492541948201271306">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
