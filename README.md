@@ -1,58 +1,111 @@
+<!-- ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗ -->
+<!-- ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗ -->
+<!-- ███████║███████║██╔████╔██║  ███╔╝ ███████║ -->
+<!-- ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║ -->
+<!-- ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║ -->
+<!-- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ -->
 
+<!-- ═══════════════════════════════════════════ -->
+<!--                   HEADER                   -->
+<!-- ═══════════════════════════════════════════ -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HAMZA&fontSize=100&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Whisperer%20%7C%20Vibe%20Engineer&descSize=18&descAlignY=60&descColor=aaaaff" width="100%" alt="Header" />
+</div>
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=Hamza&amp;fontSize=80&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=30&amp;desc=Professional%20Vibe%20Coder%20%F0%9F%8E%B6%20%7C%20AI%20Whisperer%20%F0%9F%A4%96&amp;descSize=20&amp;descAlignY=55" width="100%" alt="Header" />
+<!-- ═══════════════════════════════════════════ -->
+<!--               TYPING ANIMATION             -->
+<!-- ═══════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=I+don't+write+code...+I+manifest+it+%E2%9C%A8;ChatGPT+is+my+senior+developer+%F0%9F%A4%96;if+it+works%2C+don't+touch+it+%F0%9F%98%A4;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer+%F0%9F%98%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=750&height=60&lines=I+don't+write+code...+I+manifest+it+%E2%9C%A8;ChatGPT+is+my+senior+developer+%F0%9F%A4%96;if+it+works%2C+don't+touch+it+%F0%9F%98%A4;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer+%F0%9F%98%8E;TypeScript%3F+More+like+Type-S-c-r-e-a-m+%F0%9F%98%AD;sudo+make+me+a+senior+developer+%F0%9F%99%8F;git+blame+%E2%86%92+always+someone+else%27s+fault+%F0%9F%91%80;Production+is+just+a+staging+env+that+survived+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=PEOPLE+WATCHING+ME+VIBE&color=38bdf8&style=for-the-badge" alt="views" />
+<br/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                   BADGES                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge" alt="views" />
+  &nbsp;
   <a href="https://github.com/Hamza-op?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hamza-op?style=for-the-badge&color=38bdf8&labelColor=1a1b27&logo=github&label=VIBE+SQUAD" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Hamza-op?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&label=Followers" alt="followers" />
   </a>
-</p>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-7c3aed?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Manifesting%20Code-blueviolet?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME -->
-<table align="center">
+<!-- ═══════════════════════════════════════════ -->
+<!--                 ABOUT ME                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+<table width="100%" align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-## 🎭 Who Am I?
+## 🧬 System Info
 
-```yaml
-name: Hamza
-title: "Professional Vibe Coder"
-located_in: Somewhere with WiFi 📶
-education: "YouTube University 🎓"
-actual_skill: Googling things really fast
-coding_style: "Vibe-Driven Development"
-debugger: console.log("HERE???")
-senior_dev: ChatGPT & Claude
-backup_senior: Stack Overflow
-motto: "It compiled. Ship it. 🚀"
+```typescript
+const hamza: Developer = {
+  name:        "Hamza",
+  alias:       "Hamza-op",
+  pronouns:    "he/him",
+  location:    "Somewhere with > 5G WiFi 📶",
+  education:   "YouTube University + Stack Overflow PhD 🎓",
+
+  currentlyBuilding: [
+    "Discord Bots that actually work 🤖",
+    "Web Apps powered by vibes ✨",
+    "Tools that do things™️",
+  ],
+
+  techStack: {
+    languages:   ["TypeScript", "JavaScript", "Python", "C++"],
+    frontend:    ["React", "Next.js", "TailwindCSS"],
+    backend:     ["Node.js", "Express", "Convex"],
+    database:    ["MongoDB", "PostgreSQL"],
+    devOps:      ["Docker", "Vercel", "Git"],
+    ai_tools:    ["ChatGPT", "Claude", "Cursor", "Copilot"],
+  },
+
+  debugStrategy:  "console.log('HERE???')",
+  commitMessage:  "git commit -m 'fixed stuff idk'",
+  superpower:     "Making things work without knowing why",
+  motto:          "It compiled → Ship it 🚀",
+};
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-## 🧠 Real Talk
+## ⚡ Real Talk
 
-- 🤖 My code is **AI-generated** and I'm **not ashamed**
-- 🎯 I don't debug, I **negotiate with the compiler**
-- 📚 Documentation? I write **vibes, not docs**
-- 🔥 `git commit -m "fixed stuff idk"` is my signature move
-- 💀 I mass produce **bugs** for **free**
-- 🙏 My code works and **nobody knows why**
-- ☕ Powered by **caffeine** and **AI prompts**
+<br/>
+
+🤖 My code is **AI-assisted** & I'm **proud** of it  
+🎯 I don't debug — I **negotiate with compilers**  
+📚 Docs? I write **vibes, not wikis**  
+🔥 `git push --force` is a **valid strategy**  
+💀 I ship bugs **for free** as a bonus feature  
+🙏 My code works & **nobody knows why**  
+☕ Powered by **caffeine** and **divine prompts**  
+🌙 Best commits happen at **3AM**  
+🧠 **Brain.exe** has stopped responding  
+🚀 If in doubt, **Ctrl+Z** and blame the intern  
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-op&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" alt="Top Languages" />
 
 </td>
 </tr>
@@ -60,153 +113,322 @@ motto: "It compiled. Ship it. 🚀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- VIBE CODER TOOLKIT -->
-<h2 align="center">🧰 My Actual Tech Stack (Be Honest)</h2>
+<!-- ═══════════════════════════════════════════ -->
+<!--               GITHUB TROPHIES              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🏆 Achievement Unlocked</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-op&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophies" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                TECH STACK                  -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🧰 Arsenal</h2>
 
 <div align="center">
 
-### 🤖 The Real MVPs
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+### 🤖 The Real MVPs (Senior Devs)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
 
-### 🎨 Things I Vibe With
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🪛 Tools I Pretend To Understand
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- VIBE CODER SKILLS -->
-<h2 align="center">📊 Vibe Coder Skill Chart</h2>
+<!-- ═══════════════════════════════════════════ -->
+<!--              SKILLS BREAKDOWN              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">📊 Skill Breakdown (Certified Honest)</h2>
 
 <div align="center">
 
 ```
-Prompt Engineering   ████████████████████  99%
-Copy Pasting         ███████████████████░  95%
-Googling Errors      ██████████████████░░  90%
-Blaming the Cache    █████████████████░░░  85%
-Reading Docs         ██░░░░░░░░░░░░░░░░░░  10%
-Understanding Code   █░░░░░░░░░░░░░░░░░░░   5%
-Writing Tests        ░░░░░░░░░░░░░░░░░░░░   0%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- GITHUB STATS -->
-<h2 align="center">📈 Stats (Proof I Do Something)</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-op&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hamza-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-
-
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">🌊 Vibe Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&area_color=38BDF8" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- GIT WORKFLOW -->
-<h2 align="center">🔄 My Git Workflow</h2>
-
-<div align="center">
-
-```
-1. mass mass mass mass mass mass mass mass mass mass 🤖 Ask AI to write code
-2. 📋 Copy paste without reading
-3. 🏃 Run it
-4. 💀 Get 47 errors
-5. 📋 Paste errors back to AI
-6. 🔄 Repeat steps 2-5 about 12 times
-7. ✅ It works (nobody knows why)
-8. 🚀 git add . && git commit -m "vibes" && git push
-9. 🙏 Pray nothing breaks in production
+╔══════════════════════════════════════════════════════════════╗
+║              HAMZA'S SKILL ANALYTICS  v2.0.26               ║
+╠══════════════════════════════════════════════════════════════╣
+║  Prompt Engineering    ████████████████████  99%  🔥 GODLIKE ║
+║  Googling Errors       ███████████████████░  96%  🔥 GODLIKE ║
+║  Copy-Pasting          ██████████████████░░  92%  ⚡ EXPERT  ║
+║  Blaming the Cache     █████████████████░░░  88%  ⚡ EXPERT  ║
+║  Vibing at Keyboard    ████████████████░░░░  82%  ⚡ EXPERT  ║
+║  TypeScript            ███████████████░░░░░  75%  ✅ SKILLED ║
+║  React / Next.js       ██████████████░░░░░░  70%  ✅ SKILLED ║
+║  Node.js / Backend     █████████████░░░░░░░  65%  ✅ SKILLED ║
+║  Reading Docs          ███░░░░░░░░░░░░░░░░░  18%  📖 TRYING  ║
+║  Understanding Code    ██░░░░░░░░░░░░░░░░░░  10%  🐣 JUNIOR  ║
+║  Writing Tests         ░░░░░░░░░░░░░░░░░░░░   0%  💀 EXTINCT ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- CONNECT -->
-<h2 align="center">📬 Slide Into My DMs</h2>
+<!-- ═══════════════════════════════════════════ -->
+<!--                GITHUB STATS                -->
+<!-- ═══════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="mailto:hamza1790269@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hamza-op">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<h2 align="center">📈 GitHub Stats (Real Numbers, Real Pain)</h2>
 
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-op&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=ffffff&dates=888888" />
+</div>
 
-<br>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              CONTRIBUTION GRAPH            -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🌊 Contribution Waves</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed&custom_title=Hamza's%20Contribution%20Graph" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            SNAKE CONTRIBUTION              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+  <h3>🐍 Snake eating my contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-op/Hamza-op/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-op/Hamza-op/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Hamza-op/Hamza-op/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             FEATURED PROJECTS              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">🤖 Discord Bot</h3>
+    <div align="center">
+      <a href="https://github.com/Hamza-op/moonfilmwork" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=moonfilmwork&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="Discord Bot" />
+      </a>
+      <p><strong>TypeScript • Discord.js • Node.js</strong></p>
+      <p>Feature-rich Discord bot with dynamic voice channels, waiting rooms, bad word filters, config system, and much more</p>
+    </div>
+  </td>
+  <td width="50%">
+    <h3 align="center">🔍 MetaLens — Metadata Extractor</h3>
+    <div align="center">
+      <a href="https://github.com/Hamza-op/Meta-data-extractor" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=Meta-data-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="MetaLens" />
+      </a>
+      <p><strong>C++ • ExifTool • WinForms</strong></p>
+      <p>Self-contained desktop app that deep-dives into file metadata with a slick modern dark UI — no setup required</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">🛒 Click Khareed</h3>
+    <div align="center">
+      <a href="https://github.com/Hamza-op/click-khareed" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=click-khareed&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="Click Khareed" />
+      </a>
+      <p><strong>TypeScript • Next.js • TailwindCSS</strong></p>
+      <p>E-commerce platform built for the modern web — fast, responsive and ready to scale</p>
+    </div>
+  </td>
+  <td width="50%">
+    <h3 align="center">🌱 Food Garden</h3>
+    <div align="center">
+      <a href="https://github.com/Hamza-op/food-garden" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-op&repo=food-garden&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" width="100%" alt="Food Garden" />
+      </a>
+      <p><strong>Python • Flask • Web Scraping</strong></p>
+      <p>Smart food management app that tracks what's in your garden and kitchen — because wasting food is a crime</p>
+    </div>
+  </td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              MY GIT WORKFLOW               -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🔄 The Sacred Git Workflow™</h2>
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A[💡 Get a 'great' idea at 2AM] --> B[🤖 Ask AI to write the code]
+    B --> C[📋 Copy-paste without reading]
+    C --> D{Does it run?}
+    D -- No --> E[💀 47 errors]
+    E --> F[😭 Paste errors back into AI]
+    F --> C
+    D -- Yes --> G{Does it do the right thing?}
+    G -- No --> H[🤷 Close enough. Ship it.]
+    G -- Yes --> I[😱 How??? Don't touch it!]
+    I --> J[🚀 git commit -m 'vibes' && git push]
+    H --> J
+    J --> K[🙏 Pray production doesn't explode]
+    K --> L{Production explodes?}
+    L -- Yes --> M[😤 Blame the cache / intern / Mercury retrograde]
+    M --> B
+    L -- No --> N[🎉 I AM A 10X DEVELOPER]
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             WEEKLY DEV STATS               -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">⏱️ This Week I Spent Time On</h2>
+
+<div align="center">
+
+```text
+TypeScript   ████████████░░░░░░░░   48.3%
+JavaScript   ████████░░░░░░░░░░░░   30.7%
+Python       ███░░░░░░░░░░░░░░░░░   12.1%
+C++          ██░░░░░░░░░░░░░░░░░░    6.4%
+Markdown     █░░░░░░░░░░░░░░░░░░░    2.5%
+```
+
+> *Powered by vibes and approximations since WakaTime is too much setup*
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              RANDOM EXTRAS                 -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🎲 Random Dev Wisdom</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--               CONNECT WITH ME              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🌐 Find Me in the Wild</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="mailto:hamza1790269@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hamza-op">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
 
-<br>
+<br/>
 
-<!-- DISCLAIMER -->
 <div align="center">
-  
-  > ⚠️ **Disclaimer:** 90% of my code was written by AI. I just mass produce vibes. ⚠️
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                 DISCLAIMER                 -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+> ⚡ **PSA:** Yes, 90% of my code is AI-assisted. Welcome to 2026. The other 10% is Stack Overflow.  
+> The real skill? **Knowing what to ask.** And I'm very, very good at that. 😎
 
 </div>
 
-<br>
+<br/>
 
-<!-- FOOTER -->
-<footer role="contentinfo" aria-label="Site footer" style="text-align:center;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer&amp;text=Built%20With%20Vibes%20and%20AI%20%F0%9F%A4%96%E2%9C%A8&amp;fontSize=20&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=65"
-    alt="Built With Vibes & AI 🤖✨"
-    width="100%"
-    height="150"
-    style="display:block; max-width:100%; object-fit:cover; margin:0 auto;"
-    decoding="async"
-    loading="lazy"
-  />
-</footer>
+<!-- ═══════════════════════════════════════════ -->
+<!--                   FOOTER                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&text=Thanks+for+visiting!+%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- NOTE TO SELF: Remember to set up the snake GitHub Action!         -->
+<!-- Go to Settings → Actions → Workflows → Create snake.yml           -->
+<!-- https://github.com/Platane/snk                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
