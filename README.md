@@ -20,9 +20,10 @@
 <!--               TYPING ANIMATION             -->
 <!-- ═══════════════════════════════════════════ -->
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=800&height=55&lines=⚡+I+don%27t+write+code...+I+manifest+it;🤖+ChatGPT+is+my+senior+developer;😤+if+it+works%2C+don%27t+touch+it;😎+Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer;😭+TypeScript%3F+More+like+Type-S-c-r-e-a-m;🙏+sudo+make+me+a+senior+developer;👀+git+blame+→+always+someone+else%27s+fault;🚀+Production+is+just+a+staging+env+that+survived;💀+undefined+is+not+a+function+(it%27s+a+lifestyle);🔮+My+code+works+and+nobody+knows+why" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=750&height=60&lines=I+don't+write+code...+I+manifest+it+%E2%9C%A8;ChatGPT+is+my+senior+developer+%F0%9F%A4%96;if+it+works%2C+don't+touch+it+%F0%9F%98%A4;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer+%F0%9F%98%8E;TypeScript%3F+More+like+Type-S-c-r-e-a-m+%F0%9F%98%AD;sudo+make+me+a+senior+developer+%F0%9F%99%8F;git+blame+%E2%86%92+always+someone+else%27s+fault+%F0%9F%91%80;Production+is+just+a+staging+env+that+survived+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
