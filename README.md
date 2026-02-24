@@ -20,10 +20,9 @@
 <!--               TYPING ANIMATION             -->
 <!-- ═══════════════════════════════════════════ -->
 
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=750&height=60&lines=I+don't+write+code...+I+manifest+it+%E2%9C%A8;ChatGPT+is+my+senior+developer+%F0%9F%A4%96;if+it+works%2C+don't+touch+it+%F0%9F%98%A4;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer+%F0%9F%98%8E;TypeScript%3F+More+like+Type-S-c-r-e-a-m+%F0%9F%98%AD;sudo+make+me+a+senior+developer+%F0%9F%99%8F;git+blame+%E2%86%92+always+someone+else%27s+fault+%F0%9F%91%80;Production+is+just+a+staging+env+that+survived+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=800&height=55&lines=⚡+I+don%27t+write+code...+I+manifest+it;🤖+ChatGPT+is+my+senior+developer;😤+if+it+works%2C+don%27t+touch+it;😎+Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer;😭+TypeScript%3F+More+like+Type-S-c-r-e-a-m;🙏+sudo+make+me+a+senior+developer;👀+git+blame+→+always+someone+else%27s+fault;🚀+Production+is+just+a+staging+env+that+survived;💀+undefined+is+not+a+function+(it%27s+a+lifestyle);🔮+My+code+works+and+nobody+knows+why" alt="Typing SVG" />
   </a>
 </div>
 
@@ -253,69 +252,7 @@ const hamza: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════ -->
-<!--             FEATURED PROJECTS              -->
-<!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-<table>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Hamza-op/moonfilmwork">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=moonfilmwork&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
-    </a>
-    <br/><br/>
-    <p align="center">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    </p>
-    <p align="center">Feature-rich Discord bot with dynamic voice channels, waiting rooms, bad word filters & config system</p>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Hamza-op/Meta-data-extractor">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=Meta-data-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
-    </a>
-    <br/><br/>
-    <p align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/ExifTool-222222?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white" />
-    </p>
-    <p align="center">Self-contained desktop app that deep-dives into file metadata with a slick modern dark UI</p>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Hamza-op/click-khareed">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=click-khareed&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
-    </a>
-    <br/><br/>
-    <p align="center">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </p>
-    <p align="center">E-commerce platform built for the modern web — fast, responsive and ready to scale</p>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Hamza-op/food-garden">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hamza-op&repo=food-garden&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" />
-    </a>
-    <br/><br/>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    </p>
-    <p align="center">Smart food management app — because wasting food is a crime 🌱</p>
-  </td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════ -->
 <!--              MY GIT WORKFLOW               -->
