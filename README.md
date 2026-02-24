@@ -2,7 +2,7 @@
 
 
 <!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hamza&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Professional%20Vibe%20Coder%20%F0%9F%8E%B6%20%7C%20AI%20Whisperer%20%F0%9F%A4%96&descSize=20&descAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=Hamza&amp;fontSize=80&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=30&amp;desc=Professional%20Vibe%20Coder%20%F0%9F%8E%B6%20%7C%20AI%20Whisperer%20%F0%9F%A4%96&amp;descSize=20&amp;descAlignY=55" width="100%" alt="Header" />
 
 <!-- TYPING SVG -->
 <p align="center">
@@ -199,4 +199,14 @@ Writing Tests        ░░░░░░░░░░░░░░░░░░░�
 <br>
 
 <!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Built%20With%20Vibes%20%26%20AI%20%F0%9F%A4%96%E2%9C%A8&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65)
+<footer role="contentinfo" aria-label="Site footer" style="text-align:center;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer&amp;text=Built%20With%20Vibes%20and%20AI%20%F0%9F%A4%96%E2%9C%A8&amp;fontSize=20&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=65"
+    alt="Built With Vibes & AI 🤖✨"
+    width="100%"
+    height="150"
+    style="display:block; max-width:100%; object-fit:cover; margin:0 auto;"
+    decoding="async"
+    loading="lazy"
+  />
+</footer>
