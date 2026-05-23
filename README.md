@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Modern Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,20,30&height=220&section=header&text=HAMZA&fontSize=75&fontColor=f8fafc&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%20Rust%20%26%20TypeScript%20Specialist&descSize=18&descColor=cbd5e1&fontAlignY=40&descAlignY=62" width="100%" alt="Header" />
+<!-- Cyberpunk Twinkling Neon Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7c3aed,4f46e5,06b6d4&height=250&section=header&text=HAMZA&fontSize=80&fontColor=ffffff&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%20AI%20Whisperer&descSize=20&descColor=cbd5e1&fontAlignY=40&descAlignY=62&animation=twinkling" width="100%" alt="Header" />
 
 </div>
 
@@ -14,7 +14,7 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+Engineer;Specializing+in+Rust+%26+TypeScript;Building+high-performance%2C+scalable+applications;Crafting+beautiful%2C+user-centric+web+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Systems+Engineer;Specializing+in+Rust+%26+TypeScript;I+don't+write+code...+I+manifest+it+%E2%9C%A8;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Senior+Engineer;if+it+works%2C+don't+touch+it+%F0%9F%98%A4" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,15 +24,15 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=6366f1&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=7c3aed&style=flat-square" alt="views" />
   &nbsp;
   <a href="https://github.com/Hamza-op?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=6366f1&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=7c3aed&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
   </a>
   &nbsp;
-  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-48,691-6366f1?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
+  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-48,691-7c3aed?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-6366f1?style=flat-square&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-7c3aed?style=flat-square&labelColor=0f172a" />
 </div>
 
 <br/>
@@ -43,28 +43,37 @@
 <!--                 ABOUT ME                   -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🧬 Professional Profile
-
-Hello! I am a passionate **Software Engineer** dedicated to building robust, high-performance applications and high-fidelity web experiences. My expertise bridges the gap between high-performance systems development using **Rust** and modern, scalable full-stack web applications engineered with **TypeScript, React, and Next.js**. 
-
-I focus on writing clean, type-safe, and self-documenting code, adopting modern engineering paradigms, and creating digital products that are both visually exceptional and highly performant.
-
 <table width="100%" align="center">
 <tr>
 <td width="55%" valign="top">
 
-### 🚀 Core Engineering Competencies
-- 💻 **Backend & Systems Architecture**: Designing ultra-fast utilities, APIs, and background processes with type safety and optimal memory management.
-- 🎨 **Modern Frontend Engineering**: Crafting responsive, interactive, and beautifully accessible user interfaces with clean styling.
-- ⚙️ **Process Automation & Integration**: Automating workflows, system configurations, and building reliable Discord integrations.
+### 🧬 System Diagnostic
+```typescript
+const hamza: Developer = {
+  role:        "Systems & Full-Stack",
+  languages:   ["Rust", "TypeScript", "Python", "C++"],
+  superpower:  "Turning caffeine into binary ☕",
+  philosophy:  "Type safety > Runtime prayers 🙏",
+  debugMethod: "console.log('here???') // in prod",
+  gitStrategy: "git push --force --no-verify 🚀",
+  metrics:     "48,691 LOC of production code live",
+  status:      "Manifesting scalable codebases ✨"
+};
+```
 
 </td>
 <td width="45%" valign="top">
 
-### ⚡ Architectural Philosophy
-- 🎯 **Type Safety & Reliability**: Prioritizing compile-time checks over runtime debugging.
-- ⚡ **Performance First**: Optimizing resource utilization and reducing overhead in both web pages and system utilities.
-- 🔧 **Maintainable Codebases**: Focusing on modular architecture, separation of concerns, and clean testing boundaries.
+### ⚡ Real Talk / System Log
+<br/>
+
+🤖 My code is **AI-assisted** & I'm **proud** of it  
+🎯 I don't debug — I **negotiate with compilers**  
+📚 Docs? I write **self-documenting clean code**  
+🔥 Stack Overflow is my **backup brain**  
+☕ Powered by **caffeine** and **divine prompts**  
+🌙 Best commits happen at **3 AM**  
+🧠 **Brain.exe** runs on infinite recursive loops  
 
 </td>
 </tr>
@@ -261,6 +270,38 @@ A complete index of my software engineering projects, categorized by technical f
 <hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
+<!--              MY GIT WORKFLOW               -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🔄 The Sacred Git Workflow™</h2>
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A[💡 Get a 'great' idea at 2AM] --> B[🤖 Ask AI to write the code]
+    B --> C[📋 Copy-paste without reading]
+    C --> D{Does it run?}
+    D -- No --> E[💀 47 errors]
+    E --> F[😭 Paste errors back into AI]
+    F --> C
+    D -- Yes --> G{Does it do the right thing?}
+    G -- No --> H[🤷 Close enough. Ship it.]
+    G -- Yes --> I[😱 How??? Don't touch it!]
+    I --> J[🚀 git commit -m 'vibes' && git push]
+    H --> J
+    J --> K[🙏 Pray production doesn't explode]
+    K --> L{Production explodes?}
+    L -- Yes --> M[😤 Blame the cache / intern / Mercury retrograde]
+    M --> B
+    L -- No --> N[🎉 I AM A 10X DEVELOPER]
+```
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid #334155;" />
+
+<!-- ═══════════════════════════════════════════ -->
 <!--                GITHUB STATS                -->
 <!-- ═══════════════════════════════════════════ -->
 
@@ -270,10 +311,10 @@ A complete index of my software engineering projects, categorized by technical f
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=transparent&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="Hamza's Stats" />
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="Hamza's Stats" />
       </td>
       <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=Hamza-op&theme=transparent&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=e2e8f0&dates=94a3b8" alt="Hamza's Streak" />
+        <img height="180em" src="https://streak-stats.demolab.com?user=Hamza-op&theme=transparent&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=e2e8f0&dates=94a3b8" alt="Hamza's Streak" />
       </td>
     </tr>
   </table>
@@ -286,7 +327,7 @@ A complete index of my software engineering projects, categorized by technical f
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&area_color=6366f1&custom_title=Annual%20Contribution%20Waves" width="100%" alt="Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed&custom_title=Annual%20Contribution%20Waves" width="100%" alt="Contributions" />
 </div>
 
 <br/>
@@ -310,7 +351,16 @@ A complete index of my software engineering projects, categorized by technical f
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=6366f1&author_color=e2e8f0" alt="Dev Quote" width="80%" />
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=7c3aed&author_color=e2e8f0" alt="Dev Quote" width="95%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder&qColor=7c3aed&aColor=e2e8f0" alt="Jokes Card" width="95%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
