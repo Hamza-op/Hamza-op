@@ -1,18 +1,11 @@
-<!-- ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗ -->
-<!-- ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗ -->
-<!-- ███████║███████║██╔████╔██║  ███╔╝ ███████║ -->
-<!-- ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║ -->
-<!-- ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║ -->
-<!-- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ -->
-
 <!-- ═══════════════════════════════════════════ -->
 <!--                   HEADER                   -->
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Main hero banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,20,25,30&height=280&section=header&text=HAMZA&fontSize=110&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20AI%20Whisperer%20%7C%20Vibe%20Engineer&descSize=18&descAlignY=70&descColor=C4B5FD" width="100%" alt="Header" />
+<!-- Modern Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,20,30&height=220&section=header&text=HAMZA&fontSize=75&fontColor=f8fafc&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%20Rust%20%26%20TypeScript%20Specialist&descSize=18&descColor=cbd5e1&fontAlignY=40&descAlignY=62" width="100%" alt="Header" />
 
 </div>
 
@@ -21,8 +14,8 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=750&height=60&lines=I+don't+write+code...+I+manifest+it+%E2%9C%A8;ChatGPT+is+my+senior+developer+%F0%9F%A4%96;if+it+works%2C+don't+touch+it+%F0%9F%98%A4;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full+Stack+Developer+%F0%9F%98%8E;TypeScript%3F+More+like+Type-S-c-r-e-a-m+%F0%9F%98%AD;sudo+make+me+a+senior+developer+%F0%9F%99%8F;git+blame+%E2%86%92+always+someone+else%27s+fault+%F0%9F%91%80;Production+is+just+a+staging+env+that+survived+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+Engineer;Specializing+in+Rust+%26+TypeScript;Building+high-performance%2C+scalable+applications;Crafting+beautiful%2C+user-centric+web+interfaces" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -31,206 +24,182 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=6366f1&style=flat-square" alt="views" />
   &nbsp;
   <a href="https://github.com/Hamza-op?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hamza-op?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&label=Followers" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=6366f1&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-7c3aed?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Manifesting%20Code-blueviolet?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-6366f1?style=flat-square&labelColor=0f172a" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
 <!--                 ABOUT ME                   -->
 <!-- ═══════════════════════════════════════════ -->
 
+## 🧬 Professional Profile
+
+Hello! I am a passionate **Software Engineer** dedicated to building robust, high-performance applications and high-fidelity web experiences. My expertise bridges the gap between high-performance systems development using **Rust** and modern, scalable full-stack web applications engineered with **TypeScript, React, and Next.js**. 
+
+I focus on writing clean, type-safe, and self-documenting code, adopting modern engineering paradigms, and creating digital products that are both visually exceptional and highly performant.
+
 <table width="100%" align="center">
 <tr>
 <td width="55%" valign="top">
 
-## 🧬 System Info
-
-```typescript
-const hamza: Developer = {
-  name:        "Hamza",
-  alias:       "Hamza-op",
-  pronouns:    "he/him",
-  location:    "Somewhere with > 5G WiFi 📶",
-  education:   "YouTube University + Stack Overflow PhD 🎓",
-
-  currentlyBuilding: [
-    "Discord Bots that actually work 🤖",
-    "Web Apps powered by vibes ✨",
-    "Tools that do things™️",
-  ],
-
-  techStack: {
-    languages:   ["TypeScript", "JavaScript", "Python", "C++"],
-    frontend:    ["React", "Next.js", "TailwindCSS"],
-    backend:     ["Node.js", "Express", "Convex"],
-    database:    ["MongoDB", "PostgreSQL"],
-    devOps:      ["Docker", "Vercel", "Git"],
-    ai_tools:    ["ChatGPT", "Claude", "Cursor", "Copilot"],
-  },
-
-  debugStrategy:  "console.log('HERE???')",
-  commitMessage:  "git commit -m 'fixed stuff idk'",
-  superpower:     "Making things work without knowing why",
-  motto:          "It compiled → Ship it 🚀",
-};
-```
+### 🚀 Core Engineering Competencies
+- 💻 **Backend & Systems Architecture**: Designing ultra-fast utilities, APIs, and background processes with type safety and optimal memory management.
+- 🎨 **Modern Frontend Engineering**: Crafting responsive, interactive, and beautifully accessible user interfaces with clean styling.
+- ⚙️ **Process Automation & Integration**: Automating workflows, system configurations, and building reliable Discord integrations.
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="top">
 
-## ⚡ Real Talk
-
-<br/>
-
-🤖 My code is **AI-assisted** & I'm **proud** of it  
-🎯 I don't debug — I **negotiate with compilers**  
-📚 Docs? I write **vibes, not wikis**  
-🔥 `git push --force` is a **valid strategy**  
-💀 I ship bugs **for free** as a bonus feature  
-🙏 My code works & **nobody knows why**  
-☕ Powered by **caffeine** and **divine prompts**  
-🌙 Best commits happen at **3AM**  
-🧠 **Brain.exe** has stopped responding  
-🚀 If in doubt, **Ctrl+Z** and blame the intern  
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamza-op&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed" alt="Top Languages" />
+### ⚡ Architectural Philosophy
+- 🎯 **Type Safety & Reliability**: Prioritizing compile-time checks over runtime debugging.
+- ⚡ **Performance First**: Optimizing resource utilization and reducing overhead in both web pages and system utilities.
+- 🔧 **Maintainable Codebases**: Focusing on modular architecture, separation of concerns, and clean testing boundaries.
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--               GITHUB OVERVIEW              -->
-<!-- ═══════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Overview</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
 <!--                TECH STACK                  -->
 <!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">🧰 Arsenal</h2>
+## 🧰 Technical Arsenal
 
 <div align="center">
 
-### 🤖 The Real MVPs (Senior Devs)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
-
 ### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1e293b?style=flat-square&logo=rust&logoColor=FF4500)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=flat-square&logo=css3&logoColor=1572B6)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🎨 Frontend Frameworks
+![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=646CFF)
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248)
+![Convex](https://img.shields.io/badge/Convex-1e293b?style=flat-square&logo=convex&logoColor=EE342F)
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+### 🛠️ Infrastructure & Tools
+![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-1e293b?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=F24E1E)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #334155;" />
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             FEATURED PROJECTS              -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 📁 Featured Repositories
+
+A curated selection of my core open-source projects demonstrating system-level utilities, automation, and modern web application patterns:
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hamza-op/ZeroIdle">🦀 ZeroIdle</a></h3>
+      <p>A lightweight, high-performance systems utility written in Rust. It runs seamlessly in the background to prevent systems from entering idle states, optimized for minimal CPU and memory footprints.</p>
+      <img src="https://img.shields.io/badge/Language-Rust-FF4500?style=flat-square" alt="Rust" />
+      <img src="https://img.shields.io/badge/Scope-Systems-blue?style=flat-square" alt="Systems" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hamza-op/click-khareed">🛍️ click-khareed</a></h3>
+      <p>A responsive, modern full-stack e-commerce web platform. Implements lightning-fast page loading, interactive catalog queries, shopping cart sessions, and a polished checkout user interface.</p>
+      <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat-square" alt="Next.js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hamza-op/BuildWSA">🤖 BuildWSA</a></h3>
+      <p>An automated integration system for compiling the Windows Subsystem for Android™ (WSA) with Google Play Store, Magisk root support, and Xposed framework pre-installed.</p>
+      <img src="https://img.shields.io/badge/Scripting-Shell-4EAA25?style=flat-square" alt="Shell" />
+      <img src="https://img.shields.io/badge/Platform-Android_/_Windows-0078D4?style=flat-square" alt="Android Windows" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hamza-op/universal-file-converter">🔄 Universal File Converter</a></h3>
+      <p>A high-speed, local file conversion command-line utility built in Rust. Leverages safe concurrency and multithreading to perform rapid conversions across varied file types without cloud upload delays.</p>
+      <img src="https://img.shields.io/badge/Language-Rust-FF4500?style=flat-square" alt="Rust" />
+      <img src="https://img.shields.io/badge/Type-CLI_Utility-grey?style=flat-square" alt="CLI" />
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
 <!--              SKILLS BREAKDOWN              -->
 <!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">📊 Skill Breakdown (Certified Honest)</h2>
+## 📊 Skill Distribution Matrix
 
-<div align="center">
-
-```
+```text
 ╔══════════════════════════════════════════════════════════════╗
-║              HAMZA'S SKILL ANALYTICS  v2.0.26               ║
+║              CORE COMPETENCY DISTRIBUTION                    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Prompt Engineering    ████████████████████  99%  🔥 GODLIKE ║
-║  Googling Errors       ███████████████████░  96%  🔥 GODLIKE ║
-║  Copy-Pasting          ██████████████████░░  92%  ⚡ EXPERT  ║
-║  Blaming the Cache     █████████████████░░░  88%  ⚡ EXPERT  ║
-║  Vibing at Keyboard    ████████████████░░░░  82%  ⚡ EXPERT  ║
-║  TypeScript            ███████████████░░░░░  75%  ✅ SKILLED ║
-║  React / Next.js       ██████████████░░░░░░  70%  ✅ SKILLED ║
-║  Node.js / Backend     █████████████░░░░░░░  65%  ✅ SKILLED ║
-║  Reading Docs          ███░░░░░░░░░░░░░░░░░  18%  📖 TRYING  ║
-║  Understanding Code    ██░░░░░░░░░░░░░░░░░░  10%  🐣 JUNIOR  ║
-║  Writing Tests         ░░░░░░░░░░░░░░░░░░░░   0%  💀 EXTINCT ║
+║  Systems Programming (Rust)   ██████████████████░░░░  80%    ║
+║  Full-Stack Dev (TS / Next.js)████████████████░░░░░░  75%    ║
+║  Scripting & Tooling (Python)  ████████████░░░░░░░░░░  60%    ║
+║  Database Design (Postgres/DB) ██████████░░░░░░░░░░░░  50%    ║
+║  DevOps & Containerization     ████████░░░░░░░░░░░░░░  40%    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
 <!--                GITHUB STATS                -->
 <!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">📈 GitHub Stats (Real Numbers, Real Pain)</h2>
+## 📈 GitHub Performance Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&icon_color=7c3aed&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Hamza-op&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=ffffff&dates=888888" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=transparent&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="Hamza's Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://streak-stats.demolab.com?user=Hamza-op&theme=transparent&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=e2e8f0&dates=94a3b8" alt="Hamza's Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════ -->
 <!--              CONTRIBUTION GRAPH            -->
 <!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">🌊 Contribution Waves</h2>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed&custom_title=Hamza's%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&area_color=6366f1&custom_title=Annual%20Contribution%20Waves" width="100%" alt="Contributions" />
 </div>
 
 <br/>
@@ -240,7 +209,6 @@ const hamza: Developer = {
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <h3>🐍 Snake eating my contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-op/Hamza-op/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-op/Hamza-op/output/github-snake.svg" />
@@ -248,133 +216,36 @@ const hamza: Developer = {
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              MY GIT WORKFLOW               -->
-<!-- ═══════════════════════════════════════════ -->
-
-<h2 align="center">🔄 The Sacred Git Workflow™</h2>
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[💡 Get a 'great' idea at 2AM] --> B[🤖 Ask AI to write the code]
-    B --> C[📋 Copy-paste without reading]
-    C --> D{Does it run?}
-    D -- No --> E[💀 47 errors]
-    E --> F[😭 Paste errors back into AI]
-    F --> C
-    D -- Yes --> G{Does it do the right thing?}
-    G -- No --> H[🤷 Close enough. Ship it.]
-    G -- Yes --> I[😱 How??? Don't touch it!]
-    I --> J[🚀 git commit -m 'vibes' && git push]
-    H --> J
-    J --> K[🙏 Pray production doesn't explode]
-    K --> L{Production explodes?}
-    L -- Yes --> M[😤 Blame the cache / intern / Mercury retrograde]
-    M --> B
-    L -- No --> N[🎉 I AM A 10X DEVELOPER]
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--             WEEKLY DEV STATS               -->
-<!-- ═══════════════════════════════════════════ -->
-
-<h2 align="center">⏱️ This Week I Spent Time On</h2>
-
-<div align="center">
-
-```text
-TypeScript   ████████████░░░░░░░░   48.3%
-JavaScript   ████████░░░░░░░░░░░░   30.7%
-Python       ███░░░░░░░░░░░░░░░░░   12.1%
-C++          ██░░░░░░░░░░░░░░░░░░    6.4%
-Markdown     █░░░░░░░░░░░░░░░░░░░    2.5%
-```
-
-> *Powered by vibes and approximations since WakaTime is too much setup*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
 <!--              RANDOM EXTRAS                 -->
 <!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">🎲 Random Dev Wisdom</h2>
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=6366f1&author_color=e2e8f0" alt="Dev Quote" width="80%" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════ -->
 <!--               CONNECT WITH ME              -->
 <!-- ═══════════════════════════════════════════ -->
 
-<h2 align="center">🌐 Find Me in the Wild</h2>
+<h2 align="center">🌐 Connect & Collaborate</h2>
 
 <div align="center">
   <a href="mailto:hamza1790269@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Hamza-op">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/492541948201271306">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0f172a" alt="Discord" />
   </a>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--                 DISCLAIMER                 -->
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-
-> ⚡ **PSA:** Yes, 90% of my code is AI-assisted. Welcome to 2026. The other 10% is Stack Overflow.  
-> The real skill? **Knowing what to ask.** And I'm very, very good at that. 😎
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--                   FOOTER                   -->
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&text=Thanks+for+visiting!+%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- NOTE TO SELF: Remember to set up the snake GitHub Action!         -->
-<!-- Go to Settings → Actions → Workflows → Create snake.yml           -->
-<!-- https://github.com/Platane/snk                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
