@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Cyberpunk Twinkling Neon Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7c3aed,4f46e5,06b6d4&height=250&section=header&text=HAMZA&fontSize=80&fontColor=ffffff&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%20AI%20Whisperer&descSize=20&descColor=cbd5e1&fontAlignY=40&descAlignY=62&animation=twinkling" width="100%" alt="Header" />
+<!-- Modern Minimalist Professional Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42,30,41,59&height=220&section=header&text=HAMZA&fontSize=75&fontColor=f8fafc&desc=Software%20Engineer%20%7C%20Specializing%20in%20Systems%20%26%20Full-Stack%20Development&descSize=18&descColor=cbd5e1&fontAlignY=40&descAlignY=62" width="100%" alt="Header" />
 
 </div>
 
@@ -14,7 +14,7 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Systems+Engineer;Specializing+in+Rust+%26+TypeScript;I+don't+write+code...+I+manifest+it+%E2%9C%A8;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Senior+Engineer;if+it+works%2C+don't+touch+it+%F0%9F%98%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+Engineer;Specializing+in+Rust+%26+TypeScript;Building+high-performance%2C+scalable+systems;Crafting+responsive%2C+user-centric+web+interfaces" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,15 +24,15 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=7c3aed&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamza-op&label=👁️+Profile+Views&color=6366f1&style=flat-square" alt="views" />
   &nbsp;
   <a href="https://github.com/Hamza-op?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=7c3aed&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=6366f1&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
   </a>
   &nbsp;
-  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-48,691-7c3aed?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
+  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-48,691-6366f1?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-7c3aed?style=flat-square&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-6366f1?style=flat-square&labelColor=0f172a" />
 </div>
 
 <br/>
@@ -43,37 +43,28 @@
 <!--                 ABOUT ME                   -->
 <!-- ═══════════════════════════════════════════ -->
 
+## 🧬 Professional Profile
+
+I am a dedicated **Software Engineer** specializing in systems-level programming and full-stack web engineering. My core expertise lies in designing robust, memory-safe, and highly concurrent applications using **Rust**, alongside engineering modern, scalable, and responsive web platforms with **TypeScript, React, and Next.js**.
+
+My architectural focus centers on writing clean, type-safe, and testable code, optimizing runtime efficiency, and deploying highly automated integration pipelines. I enjoy solving complex systems-level challenges, crafting elegant user-facing interfaces, and managing clean development lifecycles.
+
 <table width="100%" align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### 🧬 System Diagnostic
-```typescript
-const hamza: Developer = {
-  role:        "Systems & Full-Stack",
-  languages:   ["Rust", "TypeScript", "Python", "C++"],
-  superpower:  "Turning caffeine into binary ☕",
-  philosophy:  "Type safety > Runtime prayers 🙏",
-  debugMethod: "console.log('here???') // in prod",
-  gitStrategy: "git push --force --no-verify 🚀",
-  metrics:     "48,691 LOC of production code live",
-  status:      "Manifesting scalable codebases ✨"
-};
-```
+### 🚀 Core Engineering Specialties
+- 💻 **Systems & Concurrency**: Developing high-performance, multithreaded command-line utilities, parsers, and system processes in **Rust**.
+- 🌐 **Full-Stack Engineering**: Building high-speed client interfaces and secure backend API layers utilizing **TypeScript, Next.js, Node.js, and Express**.
+- ⚙️ **Process Automation**: Automating development tasks and orchestrating continuous integration workflows (CI/CD).
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Real Talk / System Log
-<br/>
-
-🤖 My code is **AI-assisted** & I'm **proud** of it  
-🎯 I don't debug — I **negotiate with compilers**  
-📚 Docs? I write **self-documenting clean code**  
-🔥 Stack Overflow is my **backup brain**  
-☕ Powered by **caffeine** and **divine prompts**  
-🌙 Best commits happen at **3 AM**  
-🧠 **Brain.exe** runs on infinite recursive loops  
+### ⚡ Technical Philosophy
+- 🎯 **Compile-Time Safety**: Leveraging strict type systems and compiler checks to guarantee memory safety and eliminate runtime bugs.
+- ⚡ **Performance Optimization**: Minimizing system overhead, managing CPU/memory footprints, and accelerating client-side loading speeds.
+- 🔧 **Code Quality**: Structuring modular, self-documenting codebases backed by clean documentation and testing limits.
 
 </td>
 </tr>
@@ -127,7 +118,7 @@ const hamza: Developer = {
 <!--             FEATURED PROJECTS              -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 📂 Open-Source Project Portfolio
+## 📂 Project Portfolio
 
 <!-- METRICS_BOARD_START -->
 <div align="center">
@@ -143,48 +134,48 @@ const hamza: Developer = {
 
 <br/>
 
-A complete index of my software engineering projects, categorized by technical focus, systems utility, and architecture:
+A comprehensive directory of my core open-source projects, detailing technical implementations, languages, and architectures:
 
 ### 🦀 Systems & High-Performance Utilities (Rust)
 
 <table width="100%" border="0" cellspacing="5" cellpadding="5">
   <thead>
     <tr>
-      <th width="35%" align="left">Repository</th>
+      <th width="30%" align="left">Repository</th>
       <th width="15%" align="left">Stack</th>
-      <th width="50%" align="left">Description</th>
+      <th width="55%" align="left">Core Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/ZeroIdle">ZeroIdle</a></strong></td>
       <td><code>Rust</code> <code>Systems</code></td>
-      <td>A lightweight, high-performance background utility written in Rust designed to prevent systems from entering idle states, optimized for minimal resource footprints.</td>
+      <td>A lightweight systems utility designed to prevent desktop environments from entering sleep/idle states. Engineered for minimal memory footprint and low CPU overhead.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/universal-file-converter">universal-file-converter</a></strong></td>
       <td><code>Rust</code> <code>CLI</code></td>
-      <td>A blazingly fast local command-line conversion utility. Utilizes multithreading and safe concurrency to perform rapid file format conversions offline.</td>
+      <td>A concurrent, multithreaded command-line conversion utility. Built in Rust to execute localized, offline file format conversions quickly and securely.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/beat-detect-cep">beat-detect-cep</a></strong></td>
       <td><code>Rust</code> <code>Audio</code></td>
-      <td>A high-performance audio analysis and beat detection library integrated directly into Adobe CEP panels.</td>
+      <td>A high-performance digital audio parsing library built for beat detection, integrated directly with Adobe Creative Cloud CEP application extensions.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/Meta-data-extractor">Meta-data-extractor</a></strong></td>
       <td><code>Rust</code> <code>Parser</code></td>
-      <td>A secure, safe binary parser designed to parse, extract, and index rich metadata from varied image and document structures.</td>
+      <td>A secure systems binary utility built to extract and parse structured metadata from media, images, and document files.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/GimbalScout">GimbalScout</a></strong></td>
       <td><code>Rust</code> <code>Tracking</code></td>
-      <td>A fast systems integration tool engineered to handle camera gimbal positioning and scout controller signals.</td>
+      <td>A fast systems communication tool engineered to parse tracking signals and control camera gimbals in real time.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/fasttrack">fasttrack</a></strong></td>
       <td><code>Rust</code> <code>Benchmark</code></td>
-      <td>A benchmarking engine designed to measure execution speed and microsecond latency across system-level hot paths.</td>
+      <td>A microsecond-accurate benchmarking harness built to test and capture performance hot paths and latency metrics.</td>
     </tr>
   </tbody>
 </table>
@@ -194,26 +185,26 @@ A complete index of my software engineering projects, categorized by technical f
 <table width="100%" border="0" cellspacing="5" cellpadding="5">
   <thead>
     <tr>
-      <th width="35%" align="left">Repository</th>
+      <th width="30%" align="left">Repository</th>
       <th width="15%" align="left">Stack</th>
-      <th width="50%" align="left">Description</th>
+      <th width="55%" align="left">Core Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/click-khareed">click-khareed</a></strong></td>
       <td><code>Next.js</code> <code>Tailwind</code></td>
-      <td>A high-fidelity, responsive full-stack e-commerce marketplace featuring lightning-fast catalog search, dynamic carts, and custom checkout flows.</td>
+      <td>A fully responsive Next.js e-commerce application. Features automated cart state management, client-side searching, and payment flow integrations.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/memory-coloring">memory-coloring</a></strong></td>
       <td><code>React</code> <code>TypeScript</code></td>
-      <td>An interactive visual platform designed to represent dynamic memory structures, coloring allocations, and memory manipulation strategies.</td>
+      <td>An interactive developer visualization utility explaining physical memory structures, allocation, and scheduling schemes.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/moonfilmwork">moonfilmwork</a></strong></td>
       <td><code>Vite</code> <code>TypeScript</code></td>
-      <td>A premium portfolio platform custom-built for creative film production showcases, media distribution, and high-fidelity video embeddings.</td>
+      <td>A modern media showcasing platform customized for digital film portfolios, asset distribution, and optimized video playback.</td>
     </tr>
   </tbody>
 </table>
@@ -223,26 +214,26 @@ A complete index of my software engineering projects, categorized by technical f
 <table width="100%" border="0" cellspacing="5" cellpadding="5">
   <thead>
     <tr>
-      <th width="35%" align="left">Repository</th>
+      <th width="30%" align="left">Repository</th>
       <th width="15%" align="left">Stack</th>
-      <th width="50%" align="left">Description</th>
+      <th width="55%" align="left">Core Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/BuildWSA">BuildWSA</a></strong></td>
       <td><code>Shell</code> <code>Android</code></td>
-      <td>An automated build integration tool designed to compile Windows Subsystem for Android™ with Google Play Store, Magisk root, and Xposed framework pre-installed.</td>
+      <td>An automated configuration tool executing compilation actions for Windows Subsystem for Android™ with Magisk and Google Play Store pre-integrated.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/HTML-to-Office-Converter">HTML-to-Office-Converter</a></strong></td>
       <td><code>Python</code> <code>Parser</code></td>
-      <td>A local document conversion parser that processes rich HTML markup and converts it seamlessly to standard Microsoft Office formats (.docx, .xlsx).</td>
+      <td>A document layout parser converting structured HTML code blocks to formatted Microsoft Office formats (.docx, .xlsx) offline.</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Hamza-op/food-garden">food-garden</a></strong></td>
       <td><code>Python</code> <code>Simulation</code></td>
-      <td>An agricultural layout planning and simulation tool built to model resource allocation and localized irrigation garden grids.</td>
+      <td>An agricultural resource allocation simulator used to map, schedule, and model localized irrigation grid layouts.</td>
     </tr>
   </tbody>
 </table>
@@ -253,7 +244,7 @@ A complete index of my software engineering projects, categorized by technical f
 <!--              SKILLS BREAKDOWN              -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 📊 Skill Distribution Matrix
+## 📊 Core Domain Capabilities
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -270,38 +261,6 @@ A complete index of my software engineering projects, categorized by technical f
 <hr style="border: 0; border-top: 1px solid #334155;" />
 
 <!-- ═══════════════════════════════════════════ -->
-<!--              MY GIT WORKFLOW               -->
-<!-- ═══════════════════════════════════════════ -->
-
-<h2 align="center">🔄 The Sacred Git Workflow™</h2>
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[💡 Get a 'great' idea at 2AM] --> B[🤖 Ask AI to write the code]
-    B --> C[📋 Copy-paste without reading]
-    C --> D{Does it run?}
-    D -- No --> E[💀 47 errors]
-    E --> F[😭 Paste errors back into AI]
-    F --> C
-    D -- Yes --> G{Does it do the right thing?}
-    G -- No --> H[🤷 Close enough. Ship it.]
-    G -- Yes --> I[😱 How??? Don't touch it!]
-    I --> J[🚀 git commit -m 'vibes' && git push]
-    H --> J
-    J --> K[🙏 Pray production doesn't explode]
-    K --> L{Production explodes?}
-    L -- Yes --> M[😤 Blame the cache / intern / Mercury retrograde]
-    M --> B
-    L -- No --> N[🎉 I AM A 10X DEVELOPER]
-```
-
-</div>
-
-<hr style="border: 0; border-top: 1px solid #334155;" />
-
-<!-- ═══════════════════════════════════════════ -->
 <!--                GITHUB STATS                -->
 <!-- ═══════════════════════════════════════════ -->
 
@@ -311,10 +270,10 @@ flowchart TD
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-op&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="Hamza's Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-op&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=Hamza-op&theme=transparent&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=e2e8f0&dates=94a3b8" alt="Hamza's Streak" />
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-op&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -327,7 +286,7 @@ flowchart TD
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed&custom_title=Annual%20Contribution%20Waves" width="100%" alt="Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-op&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&area_color=6366f1&custom_title=Annual%20Contribution%20Waves" width="100%" alt="Contributions" />
 </div>
 
 <br/>
@@ -345,25 +304,6 @@ flowchart TD
 </div>
 
 <hr style="border: 0; border-top: 1px solid #334155;" />
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              RANDOM EXTRAS                 -->
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=7c3aed&author_color=e2e8f0" alt="Dev Quote" width="95%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder&qColor=7c3aed&aColor=e2e8f0" alt="Jokes Card" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════ -->
 <!--               CONNECT WITH ME              -->
