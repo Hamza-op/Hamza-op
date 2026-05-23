@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=6366f1&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Total_Lines_of_Code-43,795-6366f1?style=flat-square&labelColor=0f172a" />
+  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-48,691-6366f1?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-6366f1?style=flat-square&labelColor=0f172a" />
 </div>
@@ -120,15 +120,17 @@ I focus on writing clean, type-safe, and self-documenting code, adopting modern 
 
 ## 📂 Open-Source Project Portfolio
 
+<!-- METRICS_BOARD_START -->
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td>💻 <strong>Total Source Lines of Code:</strong> <code>43,795</code></td>
-      <td>🦀 <strong>Systems Code (Rust):</strong> <code>26,575 LOC (60.7%)</code></td>
-      <td>📂 <strong>Indexed Repositories:</strong> <code>12</code></td>
+      <td>💻 <strong>Total Source Lines of Code:</strong> <code>48,691</code></td>
+      <td>🦀 <strong>Systems Code (Rust):</strong> <code>26,909 LOC (55.3%)</code></td>
+      <td>📂 <strong>Indexed Repositories:</strong> <code>11</code></td>
     </tr>
   </table>
 </div>
+<!-- METRICS_BOARD_END -->
 
 <br/>
 
