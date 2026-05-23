@@ -1,12 +1,3 @@
-<!-- ═══════════════════════════════════════════ -->
-<!--                   HEADER                   -->
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Modern Minimalist Professional Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42,30,41,59&height=220&section=header&text=HAMZA&fontSize=75&fontColor=f8fafc&desc=Software%20Engineer%20%7C%20Specializing%20in%20Systems%20%26%20Full-Stack%20Development&descSize=18&descColor=cbd5e1&fontAlignY=40&descAlignY=62" width="100%" alt="Header" />
-
 </div>
 
 <!-- ═══════════════════════════════════════════ -->
