@@ -116,39 +116,110 @@ I focus on writing clean, type-safe, and self-documenting code, adopting modern 
 <!--             FEATURED PROJECTS              -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 📁 Featured Repositories
+## 📂 Open-Source Project Portfolio
 
-A curated selection of my core open-source projects demonstrating system-level utilities, automation, and modern web application patterns:
+A complete index of my software engineering projects, categorized by technical focus, systems utility, and architecture:
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hamza-op/ZeroIdle">🦀 ZeroIdle</a></h3>
-      <p>A lightweight, high-performance systems utility written in Rust. It runs seamlessly in the background to prevent systems from entering idle states, optimized for minimal CPU and memory footprints.</p>
-      <img src="https://img.shields.io/badge/Language-Rust-FF4500?style=flat-square" alt="Rust" />
-      <img src="https://img.shields.io/badge/Scope-Systems-blue?style=flat-square" alt="Systems" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hamza-op/click-khareed">🛍️ click-khareed</a></h3>
-      <p>A responsive, modern full-stack e-commerce web platform. Implements lightning-fast page loading, interactive catalog queries, shopping cart sessions, and a polished checkout user interface.</p>
-      <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat-square" alt="Next.js" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hamza-op/BuildWSA">🤖 BuildWSA</a></h3>
-      <p>An automated integration system for compiling the Windows Subsystem for Android™ (WSA) with Google Play Store, Magisk root support, and Xposed framework pre-installed.</p>
-      <img src="https://img.shields.io/badge/Scripting-Shell-4EAA25?style=flat-square" alt="Shell" />
-      <img src="https://img.shields.io/badge/Platform-Android_/_Windows-0078D4?style=flat-square" alt="Android Windows" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hamza-op/universal-file-converter">🔄 Universal File Converter</a></h3>
-      <p>A high-speed, local file conversion command-line utility built in Rust. Leverages safe concurrency and multithreading to perform rapid conversions across varied file types without cloud upload delays.</p>
-      <img src="https://img.shields.io/badge/Language-Rust-FF4500?style=flat-square" alt="Rust" />
-      <img src="https://img.shields.io/badge/Type-CLI_Utility-grey?style=flat-square" alt="CLI" />
-    </td>
-  </tr>
+### 🦀 Systems & High-Performance Utilities (Rust)
+
+<table width="100%" border="0" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th width="35%" align="left">Repository</th>
+      <th width="15%" align="left">Stack</th>
+      <th width="50%" align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/ZeroIdle">ZeroIdle</a></strong></td>
+      <td><code>Rust</code> <code>Systems</code></td>
+      <td>A lightweight, high-performance background utility written in Rust designed to prevent systems from entering idle states, optimized for minimal resource footprints.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/universal-file-converter">universal-file-converter</a></strong></td>
+      <td><code>Rust</code> <code>CLI</code></td>
+      <td>A blazingly fast local command-line conversion utility. Utilizes multithreading and safe concurrency to perform rapid file format conversions offline.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/beat-detect-cep">beat-detect-cep</a></strong></td>
+      <td><code>Rust</code> <code>Audio</code></td>
+      <td>A high-performance audio analysis and beat detection library integrated directly into Adobe CEP panels.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/Meta-data-extractor">Meta-data-extractor</a></strong></td>
+      <td><code>Rust</code> <code>Parser</code></td>
+      <td>A secure, safe binary parser designed to parse, extract, and index rich metadata from varied image and document structures.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/GimbalScout">GimbalScout</a></strong></td>
+      <td><code>Rust</code> <code>Tracking</code></td>
+      <td>A fast systems integration tool engineered to handle camera gimbal positioning and scout controller signals.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/fasttrack">fasttrack</a></strong></td>
+      <td><code>Rust</code> <code>Benchmark</code></td>
+      <td>A benchmarking engine designed to measure execution speed and microsecond latency across system-level hot paths.</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🌐 Web Applications & Full-Stack (TypeScript)
+
+<table width="100%" border="0" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th width="35%" align="left">Repository</th>
+      <th width="15%" align="left">Stack</th>
+      <th width="50%" align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/click-khareed">click-khareed</a></strong></td>
+      <td><code>Next.js</code> <code>Tailwind</code></td>
+      <td>A high-fidelity, responsive full-stack e-commerce marketplace featuring lightning-fast catalog search, dynamic carts, and custom checkout flows.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/memory-coloring">memory-coloring</a></strong></td>
+      <td><code>React</code> <code>TypeScript</code></td>
+      <td>An interactive visual platform designed to represent dynamic memory structures, coloring allocations, and memory manipulation strategies.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/moonfilmwork">moonfilmwork</a></strong></td>
+      <td><code>Vite</code> <code>TypeScript</code></td>
+      <td>A premium portfolio platform custom-built for creative film production showcases, media distribution, and high-fidelity video embeddings.</td>
+    </tr>
+  </tbody>
+</table>
+
+### ⚙️ Automation, Shell & Simulation (Shell / Python)
+
+<table width="100%" border="0" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th width="35%" align="left">Repository</th>
+      <th width="15%" align="left">Stack</th>
+      <th width="50%" align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/BuildWSA">BuildWSA</a></strong></td>
+      <td><code>Shell</code> <code>Android</code></td>
+      <td>An automated build integration tool designed to compile Windows Subsystem for Android™ with Google Play Store, Magisk root, and Xposed framework pre-installed.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/HTML-to-Office-Converter">HTML-to-Office-Converter</a></strong></td>
+      <td><code>Python</code> <code>Parser</code></td>
+      <td>A local document conversion parser that processes rich HTML markup and converts it seamlessly to standard Microsoft Office formats (.docx, .xlsx).</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Hamza-op/food-garden">food-garden</a></strong></td>
+      <td><code>Python</code> <code>Simulation</code></td>
+      <td>An agricultural layout planning and simulation tool built to model resource allocation and localized irrigation garden grids.</td>
+    </tr>
+  </tbody>
 </table>
 
 <hr style="border: 0; border-top: 1px solid #334155;" />
