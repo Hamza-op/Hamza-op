@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/Hamza-op?style=flat-square&color=6366f1&labelColor=0f172a&logo=github&label=Followers" alt="followers" />
   </a>
   &nbsp;
-  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-49,319-6366f1?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
+  <!-- LOC_BADGE_START --><img src="https://img.shields.io/badge/Total_Lines_of_Code-88,851-6366f1?style=flat-square&labelColor=0f172a" /><!-- LOC_BADGE_END -->
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-6366f1?style=flat-square&labelColor=0f172a" />
 </div>
@@ -115,8 +115,8 @@ My architectural focus centers on writing clean, type-safe, and testable code, o
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td>💻 <strong>Total Source Lines of Code:</strong> <code>49,319</code></td>
-      <td>🦀 <strong>Systems Code (Rust):</strong> <code>27,199 LOC (55.1%)</code></td>
+      <td>💻 <strong>Total Source Lines of Code:</strong> <code>88,851</code></td>
+      <td>🦀 <strong>Systems Code (Rust):</strong> <code>26,739 LOC (30.1%)</code></td>
       <td>📂 <strong>Indexed Repositories:</strong> <code>11</code></td>
     </tr>
   </table>
